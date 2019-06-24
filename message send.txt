@@ -1,0 +1,7 @@
+
+"default_content":"ssssdsdsdsd","timeout":0}
+I/flutter ( 8108):  send message {"premium":false,"premium_expires_at_human":null,"redirect":false,
+"timeout":0,"uuid":"0531929e-2ece-46e9-bd7a-d2e04e5eab9a","ip":"89.235.233.213",
+"user_agent":"Dart\/2.3 (dart:io)","default_content":"ssssdsdsdsd",
+"default_status":200,"default_content_type":"text\/plain",
+"premium_expires_at":null,"created_at":"2019-05-22 15:32:56","updated_at":"2019-05-22 15:32:56"}
